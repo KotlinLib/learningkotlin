@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18897924113",
+    "firebase_url": "https://learningkotlin-14f08.firebaseio.com",
+    "project_id": "learningkotlin-14f08",
+    "storage_bucket": "learningkotlin-14f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18897924113:android:4f5ae40836e5ccf6c341b0",
+        "android_client_info": {
+          "package_name": "com.zentedu.loginfirebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18897924113-nlk9q48ca3ll65vp04velteek3g9qu0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zentedu.loginfirebasesample",
+            "certificate_hash": "c1a21834ae4b396ea553fcbd5b76e04da120071d"
+          }
+        },
+        {
+          "client_id": "18897924113-2amo4me8mprfi1f9cjol3g1unvskt1gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDshCkYah67bdXJ89w7-qBiew3KGR2MDqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18897924113-2amo4me8mprfi1f9cjol3g1unvskt1gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
